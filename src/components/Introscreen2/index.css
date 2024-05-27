@@ -1,0 +1,47 @@
+.introcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:80%;
+    height: 100%;
+  }
+  
+.message{
+    background-image: url("C:\Users\Admin\Downloads\Group 149.png");
+    height: 85px;
+    width: 65%;
+    margin-bottom: 20px;
+    margin-left: 55px;
+}
+
+.para1{
+    color: blue;
+    font-size:16px;
+    font-family: "Roboto";
+}
+
+.image1{
+    height: 250px;
+    width: 175px;
+    margin: 20px;
+}
+
+.image2{
+    height: 60px;
+    width: 95px;
+    margin: 20px;
+    align-self: flex-end;
+}
+
+.image3{
+height: 60px;
+    width: 95px;
+    align-self: flex-start;
+}
+
+.buttonnext{
+height: 85px;
+width: 105px;
+align-self: flex-end;
+}

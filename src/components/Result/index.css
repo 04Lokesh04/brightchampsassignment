@@ -1,0 +1,26 @@
+.image3{
+    height: 60px;
+    width: 95px;
+    align-self: flex-start;
+}
+
+.resultcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.scorebutton{
+    background-image: url("C:\Users\Admin\Downloads\Group 146.png");
+    height: 60vh;
+    width: 55%;
+    border: 0px;
+    margin: 20px;
+}
+
+.monkeyimage{
+    height: 65%;
+    width: 90%;
+}

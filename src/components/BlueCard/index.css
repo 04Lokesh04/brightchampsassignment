@@ -1,0 +1,19 @@
+.cardcontent2{
+    background-image: url("C:\Users\Admin\Downloads\card (4).png");
+    height: 100px;
+    width: 75px;
+    margin: 15px;
+    border-radius: 10px;
+    border: 0px;
+    background-size: cover;
+}
+
+.contentcard{
+    height: 60px;
+    width: 50px;
+}
+
+.blankcard{
+    height: 100%;
+    width: 100%;
+}

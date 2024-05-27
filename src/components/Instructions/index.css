@@ -1,0 +1,72 @@
+.header{
+    display:flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.introcard{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:80%;
+    height: 100%;
+  }
+  
+.instructs{
+    background-image: url("C:\Users\Admin\Downloads\Vector 7.png");
+    height: 65vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.instructcard{
+    height: 80%;
+    width: 150px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 40px;
+}
+
+.instructpara1{
+    color: rgba(32, 171, 225, 0.94);
+    font-size: 17px;
+    font-family:"Roboto";
+    margin-bottom: 10px;
+}
+
+.instructpara2{
+    color: rgb(32, 108, 13);
+    font-size: 14px;
+    font-family:"Roboto";
+    margin-bottom: 10px;
+}
+
+.instructimage{
+    height: 65px;
+    width: 80%;
+    margin-bottom: 15px;
+}
+
+.image2{
+    height: 60px;
+    width: 95px;
+    margin: 20px;
+    align-self: flex-end;
+}
+
+.buttonnext{
+    height: 85px;
+    width: 105px;
+    align-self: flex-end;
+}
